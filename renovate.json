@@ -1,0 +1,16 @@
+{
+    "extends": [
+        ":enableRenovate",
+        "config:js-app",  
+        "npm:unpublishSafe"
+    ],
+    "packageRules": [
+        {
+          "updateTypes": [
+            "minor",
+            "patch"
+          ],
+          "automerge": true
+        }
+    ]
+}
