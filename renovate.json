@@ -1,8 +1,7 @@
 {
     "extends": [
         ":enableRenovate",
-        "config:js-app",  
-        "npm:unpublishSafe"
+        "config:js-app"
     ],
     "packageRules": [
         {
