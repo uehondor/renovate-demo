@@ -17,10 +17,10 @@
   "author": "Uyi Ehondor <cyberuyi@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "aws-sdk": "^2.1006.0"
+    "aws-sdk": "2.1006.0"
   },
   "devDependencies": {
-    "mocha": "^8.4.0",
+    "mocha": "8.4.0",
     "sinon": "11.1.2"
   }
 }
