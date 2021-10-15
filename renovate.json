@@ -11,5 +11,8 @@
           ],
           "automerge": true
         }
-    ]
+    ],
+    "npm": {
+        "stabilityDays": 0
+    }
 }
